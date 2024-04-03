@@ -12,7 +12,7 @@ The analysis process includes understanding the datasets, data preparation and w
 
 ![](https://github.com/sarayusoma2812/Instagram-Followers/blob/main/download%20(1).png)
 
-The dataset for this project was collected from [Kaggle](https://www.kaggle.com/). This dataset comprises information on the top 100 most followed Instagram users, encompassing various metrics such as follower count, post activity, average likes, and engagement rates. The dataset provides insights into the behavioral patterns of influencers on the platform, aiding in understanding user engagement and popularity dynamics. [Hotel booking dataset](datset_link_after_uploading_file_to_repo)
+The dataset for this project was collected from [Kaggle](https://www.kaggle.com/). This dataset comprises information on the top 100 most followed Instagram users, encompassing various metrics such as follower count, post activity, average likes, and engagement rates. The dataset provides insights into the behavioral patterns of influencers on the platform, aiding in understanding user engagement and popularity dynamics. [Hotel booking dataset](https://github.com/sarayusoma2812/Instagram-Followers/blob/main/Dataset.xlsx)
 
 
  # 3.	Business Understanding:
