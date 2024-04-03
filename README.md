@@ -1,6 +1,5 @@
 # 1.	Project Overview:
- 
- **Instagram Logo Image**
+
  ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)
  
 In this project, we aim to analyze the behavioral patterns of top Instagram users to provide insights for aspiring influencers. By examining metrics such as follower count, post activity, average likes, and engagement rates over the past 60 days, we seek to understand user behavior and inform strategies for increasing fan base.
@@ -9,9 +8,9 @@ The dataset comprises data from the top 100 most followed Instagram accounts, in
 
 The analysis process includes understanding the datasets, data preparation and wrangling, analyzing and visualizing the data, and model building. Our goal is to provide actionable insights to aspiring influencers, enabling them to make informed decisions to grow their follower count and engagement rates.
 
-# 2.Data Source :
+# 2. Data Source:
 
-**Kaggle logo Image**
+![](https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp)
 
 The dataset for this project was collected from [Kaggle](https://www.kaggle.com/). This dataset comprises information on the top 100 most followed Instagram users, encompassing various metrics such as follower count, post activity, average likes, and engagement rates. The dataset provides insights into the behavioral patterns of influencers on the platform, aiding in understanding user engagement and popularity dynamics. [Hotel booking dataset](datset_link_after_uploading_file_to_repo)
 
@@ -34,7 +33,7 @@ As part of the data preparation phase, several steps were undertaken to ensure t
 • Data Type Definition: Each column's data type was explicitly defined to accurately represent the nature of the data, enabling efficient processing and analysis.
 • Data Validation and Adjustment: All values in the dataset underwent thorough validation and adjustment based on the context of their respective columns. This meticulous process ensured data integrity and consistency throughout the analysis.
 
-# 6. CONCLUSIONS :
+# 6. Conclusion:
 
 In conclusion, this project has provided valuable insights into the behavioral patterns of top Instagram users. Through thorough analysis of metrics such as follower count, post activity, average likes, and engagement rates, we have gained a deeper understanding of factors influencing user popularity on the platform.
 
