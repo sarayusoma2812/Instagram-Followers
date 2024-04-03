@@ -1,6 +1,7 @@
 # 1.	Project Overview:
  
  **Instagram Logo Image**
+ ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)
  
 In this project, we aim to analyze the behavioral patterns of top Instagram users to provide insights for aspiring influencers. By examining metrics such as follower count, post activity, average likes, and engagement rates over the past 60 days, we seek to understand user behavior and inform strategies for increasing fan base.
 
