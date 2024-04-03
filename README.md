@@ -10,7 +10,7 @@ The analysis process includes understanding the datasets, data preparation and w
 
 # 2. Data Source:
 
-![](https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp)
+![](<img src="https://logowik.com/content/uploads/images/kaggle4255.logowik.com.webp" width="150" height="100")
 
 The dataset for this project was collected from [Kaggle](https://www.kaggle.com/). This dataset comprises information on the top 100 most followed Instagram users, encompassing various metrics such as follower count, post activity, average likes, and engagement rates. The dataset provides insights into the behavioral patterns of influencers on the platform, aiding in understanding user engagement and popularity dynamics. [Hotel booking dataset](datset_link_after_uploading_file_to_repo)
 
